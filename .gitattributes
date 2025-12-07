@@ -1,0 +1,11 @@
+*.ino linguist-language=C++
+*.cpp linguist-language=C++
+*.h linguist-language=C++
+*.c linguist-language=C
+
+# HTML-Dateien als Dokumentation markieren (werden nicht gezählt)
+*.html linguist-documentation
+*.htm linguist-documentation
+
+# PlatformIO Build-Dateien ignorieren
+.pio/** linguist-vendored
