@@ -2,6 +2,8 @@
 
 Ein internetbasiertes Radio mit ESP32, VS1053 Audio-Decoder und OLED-Display. Entwickelt mit PlatformIO in Visual Studio Code.
 
+![image](https://github.com/user-attachments/assets/7511fe00-e7cc-4308-b2ec-f783104a672f)
+
 ## 📻 Features
 
 - **Webradio-Streaming** über WiFi
