@@ -1,6 +1,6 @@
 # ESP32 Webradio mit VS1053 und OLED
 
-Ein internetbasiertes Radio mit ESP32, VS1053 Audio-Decoder und OLED-Display. Entwickelt mit PlatformIO in Visual Studio Code.
+Hier nun auch die Visual Studio Code Version des Webradio. Entwickelt mit PlatformIO um ein internetbasiertes Radio mit ESP32, VS1053 Audio-Decoder und OLED-Display. 
 
 ![image](https://github.com/user-attachments/assets/7511fe00-e7cc-4308-b2ec-f783104a672f)
 
