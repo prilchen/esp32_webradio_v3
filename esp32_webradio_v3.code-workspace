@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../vscode_projekte/esp32_webradio_v3"
+		},
+		{
+			"name": "esp32_webradio_v3",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

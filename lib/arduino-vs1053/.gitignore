@@ -1,0 +1,7 @@
+.pioenvs
+.piolibdeps
+.idea
+.vscode/
+.pio/
+build/
+.DS_Store
