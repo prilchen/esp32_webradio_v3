@@ -69,7 +69,7 @@ GND         →  GND
 ### Schritt 1: Repository klonen
 
 ```bash
-git clone https://github.com/prilchen/ESP32-Webradio-PlatformIO.git
+git clone https://github.com/prilchen/esp32_webradio_v3.git
 cd ESP32-Webradio-PlatformIO
 ```
 
