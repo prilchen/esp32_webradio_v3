@@ -68,6 +68,9 @@ GND         →  GND
 
 ### Schritt 1: Repository klonen
 
+1. Erstelle einen Projekt-Ordner
+2. Öffne Terminal/Powershell und navigiere in den gewünschten Ordner.
+3. Führe aus:
 ```bash
 git clone https://github.com/prilchen/esp32_webradio_v3.git
 cd ESP32-Webradio-PlatformIO
