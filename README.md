@@ -17,10 +17,10 @@ Hier nun auch die Visual Studio Code Version des Webradio. Entwickelt mit Platfo
 
 ### Benötigte Komponenten
 
-- **ESP32 Development Board** (z.B. ESP32-DevKitC)
-- **VS1053 Audio Decoder Modul**
-- **SSD1306 OLED Display** (128x64, I2C)
-- **Rotary Encoder** (KY-040)
+- [ESP32 Development Board](https://amzn.to/3BlTHlF)
+- [VS1053 Audio Decoder Modul](https://amzn.to/42gwzQW)
+- [SSD1306 OLED Display (128x64, I2C)](https://amzn.to/4eLUNWY)
+- [Rotary Encoder (KY-040)](https://amzn.to/3zmtwKy)
 - **Lautsprecher** oder Kopfhörer (3,5mm Klinke)
 - **Stromversorgung** (5V, min. 1A)
 
