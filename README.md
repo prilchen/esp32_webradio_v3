@@ -52,9 +52,9 @@ GND         →  GND
 #### Rotary Encoder
 ```
 Encoder Pin →  ESP32 Pin
-CLK (A)     →  GPIO 32
+CLK (A)     →  GPIO 34
 DT (B)      →  GPIO 33
-SW (Button) →  GPIO 25
+SW (Button) →  GPIO 32
 VCC         →  3.3V
 GND         →  GND
 ```
