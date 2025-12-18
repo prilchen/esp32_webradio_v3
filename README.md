@@ -35,7 +35,7 @@ DREQ        →  GPIO 4
 MOSI        →  GPIO 23
 MISO        →  GPIO 19
 SCK         →  GPIO 18
-RESET       →  GPIO 17
+RESET       →  GPIO EN
 VCC         →  5V
 GND         →  GND
 ```
